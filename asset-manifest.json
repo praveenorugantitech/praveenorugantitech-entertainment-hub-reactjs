@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/praveenorugantitech-plant-reactjs/static/css/main.644ce8a6.chunk.css",
-    "main.js": "/praveenorugantitech-plant-reactjs/static/js/main.29462d4f.chunk.js",
-    "runtime-main.js": "/praveenorugantitech-plant-reactjs/static/js/runtime-main.8f44202b.js",
-    "static/css/2.1226b68b.chunk.css": "/praveenorugantitech-plant-reactjs/static/css/2.1226b68b.chunk.css",
-    "static/js/2.96a79e6c.chunk.js": "/praveenorugantitech-plant-reactjs/static/js/2.96a79e6c.chunk.js",
-    "index.html": "/praveenorugantitech-plant-reactjs/index.html",
-    "static/js/2.96a79e6c.chunk.js.LICENSE.txt": "/praveenorugantitech-plant-reactjs/static/js/2.96a79e6c.chunk.js.LICENSE.txt"
+    "main.css": "/praveenorugantitech-entertainment-hub-reactjs/static/css/main.644ce8a6.chunk.css",
+    "main.js": "/praveenorugantitech-entertainment-hub-reactjs/static/js/main.b227a1b7.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-entertainment-hub-reactjs/static/js/runtime-main.e0e1d3d0.js",
+    "static/css/2.1226b68b.chunk.css": "/praveenorugantitech-entertainment-hub-reactjs/static/css/2.1226b68b.chunk.css",
+    "static/js/2.2925557a.chunk.js": "/praveenorugantitech-entertainment-hub-reactjs/static/js/2.2925557a.chunk.js",
+    "index.html": "/praveenorugantitech-entertainment-hub-reactjs/index.html",
+    "static/js/2.2925557a.chunk.js.LICENSE.txt": "/praveenorugantitech-entertainment-hub-reactjs/static/js/2.2925557a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f44202b.js",
+    "static/js/runtime-main.e0e1d3d0.js",
     "static/css/2.1226b68b.chunk.css",
-    "static/js/2.96a79e6c.chunk.js",
+    "static/js/2.2925557a.chunk.js",
     "static/css/main.644ce8a6.chunk.css",
-    "static/js/main.29462d4f.chunk.js"
+    "static/js/main.b227a1b7.chunk.js"
   ]
 }
