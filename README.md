@@ -2,15 +2,13 @@
 
 ### API
 
-Fetch Movies: [https://api.themoviedb.org/3/discover/movie?api_key=${process.env.REACT_APP_APIKEY}&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}&with_genres=${genreforURL}](https://api.themoviedb.org/3/discover/movie?api_key=${process.env.REACT_APP_APIKEY}&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}&with_genres=${genreforURL})
+Fetch Movies: [https://api.themoviedb.org/3/discover/movie?api_key=${process.env.REACT_APP_APIKEY}](https://api.themoviedb.org/3/discover/movie?api_key=${process.env.REACT_APP_APIKEY})
 
-Fetch TV Series: [https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_APIKEY}&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}&with_genres=${genreforURL}](https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_APIKEY}&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}&with_genres=${genreforURL})
+Fetch TV Series: [https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_APIKEY}](https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_APIKEY})
 
-Search: [https://api.themoviedb.org/3/search/${type ? "tv" : "movie"}?api_key=${
-process.env.REACT_APP_APIKEY
-}&language=en-US&query=${searchText}&page=${page}&include_adult=false](https://api.themoviedb.org/3/search/${type ? "tv" : "movie"}?api_key=${
-          process.env.REACT_APP_APIKEY
-        }&language=en-US&query=${searchText}&page=${page}&include_adult=false)
+Search Movie: [https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_APIKEY}](https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_APIKEY})
+
+Search TV Series: [https://api.themoviedb.org/3/search/tv?api_key=${process.env.REACT_APP_APIKEY}](https://api.themoviedb.org/3/search/tv?api_key=${process.env.REACT_APP_APIKEY})
 
 ### App Screenshots
 
