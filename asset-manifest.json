@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-plant-reactjs/static/css/main.644ce8a6.chunk.css",
+    "main.js": "/praveenorugantitech-plant-reactjs/static/js/main.29462d4f.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-plant-reactjs/static/js/runtime-main.8f44202b.js",
+    "static/css/2.1226b68b.chunk.css": "/praveenorugantitech-plant-reactjs/static/css/2.1226b68b.chunk.css",
+    "static/js/2.96a79e6c.chunk.js": "/praveenorugantitech-plant-reactjs/static/js/2.96a79e6c.chunk.js",
+    "index.html": "/praveenorugantitech-plant-reactjs/index.html",
+    "static/js/2.96a79e6c.chunk.js.LICENSE.txt": "/praveenorugantitech-plant-reactjs/static/js/2.96a79e6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f44202b.js",
+    "static/css/2.1226b68b.chunk.css",
+    "static/js/2.96a79e6c.chunk.js",
+    "static/css/main.644ce8a6.chunk.css",
+    "static/js/main.29462d4f.chunk.js"
+  ]
+}
